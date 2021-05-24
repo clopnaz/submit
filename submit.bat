@@ -1,6 +1,6 @@
 @echo off
 @setlocal EnableDelayedExpansion
-set rev=192
+set rev=194
 set inpfile=%~dpf1.dat
 set outfile=%~dpf1.txt
 set jobn=%~n1

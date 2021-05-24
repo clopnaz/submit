@@ -1,6 +1,6 @@
-@echo off
+REM @echo off
 @setlocal EnableDelayedExpansion
-set rev=192
+set rev=194
 set jobn=%~n1
 set anspath=!ansys%rev%_dir!\bin\%ansys_sysdir%
 REM echo %anspath%
